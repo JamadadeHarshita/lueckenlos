@@ -2,7 +2,7 @@
 
 *(adj., German): without gaps.*
 
-An agentic AI project in progress. 🜂
+An agentic AI project in progress. 
 
 ---
 
@@ -19,8 +19,7 @@ lueckenlos/
 ```
 
 ## Status
-
-🚧 early build — stage 1 in progress.
+early build — stage 1 in progress.
 
 ## Setup
 
